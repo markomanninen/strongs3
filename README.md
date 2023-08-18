@@ -7,4 +7,4 @@ This is based on my previous [Strong's New Testament Dictionary](https://github.
 
 For usage see examples on Jupyter notebook:
 
-1. [Strong's Bible Dictionary](http://nbviewer.ipython.org/github/markomanninen/strongs3/blob/master/Strong's%20Bible%20Dictionary.ipynb)
+1. [Strong's Bible Dictionary](http://nbviewer.jupyter.org/github/markomanninen/strongs3/blob/master/Strong's%20Bible%20Dictionary.ipynb)
